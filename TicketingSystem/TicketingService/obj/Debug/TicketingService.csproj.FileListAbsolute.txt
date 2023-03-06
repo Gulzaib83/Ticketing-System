@@ -1,0 +1,7 @@
+C:\Users\GulzebKhan\source\repos\TicketingSystem\TicketingService\bin\Debug\TicketingService.dll.config
+C:\Users\GulzebKhan\source\repos\TicketingSystem\TicketingService\bin\Debug\TicketingService.dll
+C:\Users\GulzebKhan\source\repos\TicketingSystem\TicketingService\bin\Debug\TicketingService.pdb
+C:\Users\GulzebKhan\source\repos\TicketingSystem\TicketingService\obj\Debug\TicketingService.csproj.AssemblyReference.cache
+C:\Users\GulzebKhan\source\repos\TicketingSystem\TicketingService\obj\Debug\TicketingService.csproj.CoreCompileInputs.cache
+C:\Users\GulzebKhan\source\repos\TicketingSystem\TicketingService\obj\Debug\TicketingService.dll
+C:\Users\GulzebKhan\source\repos\TicketingSystem\TicketingService\obj\Debug\TicketingService.pdb
